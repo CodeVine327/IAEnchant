@@ -1,0 +1,9 @@
+name: IAEnchant
+version: '${version}'
+main: io.github.codevine327.iaenchant.IAEnchant
+api-version: '1.20'
+authors: [TheLittle_Yang]
+website: https://github.com/CodeVine327
+
+depend:
+  - ItemsAdder
